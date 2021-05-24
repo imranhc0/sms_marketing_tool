@@ -1,1 +1,1 @@
-twilio 
+twilio == 6.59.0
